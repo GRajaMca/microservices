@@ -1,10 +1,10 @@
-package com.born2crack.serviceregistry;
+package com.javabeans.io.discoveryclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceRegistryApplicationTests {
+class DiscoveryClientApplicationTests {
 
 	@Test
 	void contextLoads() {
