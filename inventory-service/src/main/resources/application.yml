@@ -1,0 +1,9 @@
+server:
+  port: 5272
+spring:
+  application:
+    name: inventory-service
+eureka:
+  client:
+    service-url:
+      defaultZone: "http://localhost:8761/eureka/"

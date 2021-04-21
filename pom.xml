@@ -16,6 +16,8 @@
 
     <modules>
         <module>service-registry</module>
-        <module>discovery-client</module>
+        <module>shopping-service</module>
+        <module>account-service</module>
+        <module>inventory-service</module>
     </modules>
 </project>
